@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "SecureAi",
+    "slug": "SecureAi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "SecureAi"
+}
